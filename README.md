@@ -1,5 +1,5 @@
 # 💫 About Me:
-CSE Student & Full-Stack Developer<br><br>Building scalable web applications with Python (Django) and React. Currently diving deep into Applied Machine Learning for finance and healthcare.
+CSE Student & Machine Learning Engineer<br><br>Building scalable web applications with Python (Django) and React. Currently diving deep into Applied Machine Learning for finance and healthcare.
 
 
 ## 🌐 Socials:
