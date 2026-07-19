@@ -11,3 +11,12 @@ CSE Student & Machine Learning Engineer<br><br>Building and deploying scalable p
 
 ### 📊 Profile Stats
 ![Visitor Count](https://komarev.com/ghpvc/?username=singhanmolpreet&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+
+---
+
+### 📊 GitHub Stats
+<!-- Stats Cards Layout -->
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=radical" alt="Anmolpreet's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanmolpreet&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
