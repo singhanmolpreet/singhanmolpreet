@@ -12,8 +12,8 @@ CSE Student & Machine Learning Engineer<br><br>Building and deploying scalable p
 ### 📊 Profile Stats
 
 <!-- Dynamic Activity Streak Counter -->
-<!-- <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhanmolpreet&theme=dark" alt="GitHub Streak" height="150" /> -->
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhanmolpreet&theme=dark" alt="GitHub Streak" height="150" /> 
 
   <!-- Bulletproof Shield Stats -->
   <br><br>
