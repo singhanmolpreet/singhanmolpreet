@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anmolpreet Singh</h1>
+<h1 align="center">Hi, I'm Anmolpreet Singh</h1>
 <h3 align="center">CSE Student & Machine Learning Engineer building predictive models & intelligent systems</h3>
 
 <p align="center">
