@@ -19,7 +19,6 @@
 - 🧠 Focused on building **scalable, production-ready predictive models** and intelligent systems
 - 📊 Comfortable across the full ML pipeline — data engineering, modeling, evaluation, and deployment
 - 🌱 Always exploring new architectures, papers, and tools in applied ML
-- 💬 Ask me about ML pipelines, statistical modeling, or Python data tooling
 - ⚡ Fun fact: I like turning messy data into models that actually ship
 
 ---
