@@ -9,9 +9,6 @@
   <a href="https://linkedin.com/in/anmolpreetsinghcodes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://github.com/singhanmolpreet" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
