@@ -56,10 +56,10 @@
 
 ### 📊 GitHub Stats
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=singhanmolpreet&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=singhanmolpreet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=singhanmolpreet&theme=dark&hide_border=false" />
