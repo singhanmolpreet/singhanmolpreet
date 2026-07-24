@@ -57,7 +57,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">[
-  <img src="https://github-readme-stats.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>](https://github-readme-stats-sigma-five.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=dark&hide_border=true)
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanmolpreet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
