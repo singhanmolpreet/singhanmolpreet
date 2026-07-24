@@ -56,18 +56,13 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">[
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanmolpreet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=singhanmolpreet&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=singhanmolpreet&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhanmolpreet&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhanmolpreet&theme=react-dark&hide_border=true" alt="Contribution Graph" width="90%"/>
+  <img src="https://streak-stats.demolab.com/?user=singhanmolpreet&theme=dark&hide_border=false" />
 </p>
 
 ---
