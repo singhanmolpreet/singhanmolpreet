@@ -1,21 +1,83 @@
-# 💫 About Me:
-CSE Student & Machine Learning Engineer<br><br>Building and deploying scalable predictive models and intelligent systems. Currently diving deep into Applied Machine Learning, Deep Learning, and statistical modeling for finance and healthcare.
+<h1 align="center">Hi 👋, I'm Anmolpreet Singh</h1>
+<h3 align="center">CSE Student & Machine Learning Engineer building predictive models & intelligent systems</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anmolpreetsinghcodes) 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Applied+Machine+Learning;Deep+Learning+%26+Statistical+Modeling;Finance+%26+Healthcare+ML+Systems;Always+shipping,+always+learning&font=Fira+Code&center=true&width=520&height=45&color=58A6FF&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-%234682B4.svg?style=for-the-badge&logo=seaborn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <a href="https://linkedin.com/in/anmolpreetsinghcodes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/singhanmolpreet" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📊 Profile Stats
+### 💫 About Me
 
-<!-- Dynamic Activity Streak Counter -->
+- 🔭 Currently deep-diving into **Applied Machine Learning, Deep Learning, and statistical modeling** for finance & healthcare
+- 🧠 Focused on building **scalable, production-ready predictive models** and intelligent systems
+- 📊 Comfortable across the full ML pipeline — data engineering, modeling, evaluation, and deployment
+- 🌱 Always exploring new architectures, papers, and tools in applied ML
+- 💬 Ask me about ML pipelines, statistical modeling, or Python data tooling
+- ⚡ Fun fact: I like turning messy data into models that actually ship
+
+---
+
+### 💻 Tech Stack
+
+**Languages**
 <p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhanmolpreet&theme=dark" alt="GitHub Streak" height="150" /> 
-
-  <!-- Bulletproof Shield Stats -->
-  <br><br>
-  <img src="https://img.shields.io/github/followers/singhanmolpreet?label=Followers&style=social" />   <img src="https://komarev.com/ghpvc/?username=singhanmolpreet&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
+
+**ML / Data Science**
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Visualization**
+<p align="left">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/Seaborn-%234682B4.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+**Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhanmolpreet&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhanmolpreet&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhanmolpreet&theme=dark&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=singhanmolpreet&theme=react-dark&hide_border=true" alt="Contribution Graph" width="90%"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/singhanmolpreet?label=Followers&style=social" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=singhanmolpreet&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center"><i>⭐️ Thanks for stopping by — feel free to connect on LinkedIn!</i></p>
